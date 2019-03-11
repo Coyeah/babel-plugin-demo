@@ -1,0 +1,31 @@
+{
+  "name": "demo-babel-plugin",
+  "version": "1.0.0",
+  "description": "A demo for babel plugin & AST parse.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Coyeah_chen@outlook.com",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-types": "^6.26.0",
+    "escodegen": "^1.11.1",
+    "esprima": "^4.0.1",
+    "estraverse": "^4.2.0",
+    "lodash": "^4.17.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coyeah/demo-babel-plugin.git"
+  },
+  "keywords": [
+    "babel-plugin",
+    "AST"
+  ],
+  "bugs": {
+    "url": "https://github.com/Coyeah/demo-babel-plugin/issues"
+  },
+  "homepage": "https://github.com/Coyeah/demo-babel-plugin#readme"
+}
